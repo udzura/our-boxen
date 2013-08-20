@@ -33,6 +33,9 @@ github "ruby",       "6.3.0"
 github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
+github "virtualbox", "1.0.5"
+github "vagrant",    "2.0.10"
+
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
